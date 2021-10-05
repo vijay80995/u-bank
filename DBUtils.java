@@ -1,2 +1,2 @@
-hi hello
-this is java file
+hiii
+this is java script
